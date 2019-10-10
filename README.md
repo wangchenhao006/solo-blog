@@ -10,6 +10,7 @@ wangchenhao006 的个人博客
 
 ### 最新
 
+* [我在 GitHub 上的开源项目](http://lemon-cat.cn/my-github-repos)
 * [世界，你好！](http://lemon-cat.cn/hello-solo)
 
 
